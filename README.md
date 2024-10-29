@@ -1,6 +1,6 @@
 # etlpipeline
 
-![Alt text](dlt-pipeline/blob/main/dltpipeline.png)
+![Alt text](dlt-pipeline/dltpipeline.png)
 
 ## Overview:
 This project builds an efficient data pipeline that transfers data from a PostgreSQL database into BigQuery using the Data Load Tool (DLT) for streamlined loading. Once the data is in BigQuery, dbt is leveraged to handle transformation logic, ensuring modularity, data quality, and consistency across data models. Finally, Power BI provides the front-end visualization, enabling users to access insights through interactive dashboards.
