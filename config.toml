@@ -1,5 +1,5 @@
 [sources.sql_database]
-table = "hr_employee_attrition" # please set me up!
+table = "coloplast" # please set me up!
 
 [runtime]
 log_level="WARNING"
