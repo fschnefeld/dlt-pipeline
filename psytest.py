@@ -4,7 +4,7 @@ try:
     connection = psycopg2.connect(
         dbname="coloplast",
         user="postgres",
-        password="WXnqNB9bqMEC",
+        password="password",
         host="localhost",
         port="5432"
     )
